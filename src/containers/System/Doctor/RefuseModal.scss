@@ -1,0 +1,32 @@
+.modal-header{
+    height: 40px !important;
+    button{
+        background-color: #0071ba;
+        border: none !important;
+        font-size: 22px;
+    }
+
+    .close:hover{
+        color: red;
+    }
+}
+.modal-body{
+    .row{
+        .col-12{
+            font-size: 15px;
+            text-align: center;
+
+            input{
+                margin-left: auto;
+                margin-right: auto;
+                width: 400px;
+            }
+        }      
+    }
+}
+
+.modal-footer{
+    .btn_modalFooter{
+        padding: 0 5px;
+    }
+}
